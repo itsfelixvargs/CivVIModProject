@@ -1,7 +1,7 @@
 # CivVIModProject
 A mod for CivVi that I would like to create for myself. 
 
-##IDEAS
+## IDEAS
 tiered city buildings:
   colony outpost
   governror hall
